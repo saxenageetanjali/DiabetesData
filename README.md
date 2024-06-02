@@ -1,3 +1,4 @@
 # Second_Practice
-This is my second Repos for practising Git
+
 Author-- Geetanjali Saxena
+The objective is to predict based on diagnostic measurements whether a patient has diabetes.
